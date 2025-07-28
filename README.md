@@ -1,9 +1,10 @@
 # 🍇Clustering Mall Customers by Demographics Using K-Means
 
-## This was an unsupervised learning project for MDS-640 Machine Learning during the Spring of 2025. 
+This was an unsupervised learning project for MDS-640 Machine Learning during the Spring of 2025. 
+
 ---
 
-## 🔭Project Summary
+## 🔭 Project Summary
 
 Mall customer data is separated into clusters for more granular advertising and service
 - Data Visualization
@@ -14,7 +15,7 @@ Mall customer data is separated into clusters for more granular advertising and 
 
 ---
 
-## ⚙️Tools
+## ⚙️ Tools
 - 🐼 **Pandas**
 - #️⃣ **Numpy**
 - 📊 **Matplotlib**
@@ -23,7 +24,7 @@ Mall customer data is separated into clusters for more granular advertising and 
 
 ---
 
-## 📂Dataset 
+## 📂 Dataset 
 
 The dataset is called `mallcustomers.csv` and includes data for 200 mall customers.
 
@@ -37,7 +38,7 @@ The dataset is called `mallcustomers.csv` and includes data for 200 mall custome
 
 ---
 
-## 💡Key Insights
+## 💡 Key Insights
 - Based on the inertia scores, I determined that `k=5` is optimal.
 - Cluster 0 had the most people overall.
 - All clusters had more women than men, except for cluster 3. The advertising directed at that cluster should be geared toward men.
@@ -45,7 +46,7 @@ The dataset is called `mallcustomers.csv` and includes data for 200 mall custome
 
 --- 
 
-## 🏃Run the Code
+## 🏃 Run the Code
 
 1. Clone this repository:
    ```bash
