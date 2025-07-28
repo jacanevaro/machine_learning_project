@@ -1,4 +1,4 @@
-# 🍇Clustering Customers by Demographics Using K-Means
+# 🍇Clustering Mall Customers by Demographics Using K-Means
 
 ## This was an unsupervised learning project for MDS-640 Machine Learning during the Spring of 2025. 
 ---
