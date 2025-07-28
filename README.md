@@ -30,10 +30,10 @@ The dataset is called `mallcustomers.csv` and includes data for 200 mall custome
 💾 [Download the Dataset](mallcustomers.csv)
 
 ### Features
-- 🚻**Gender**
-- 🌱**Age**
-- 💰**Income**
-- 💯**SpendingScore**
+- 🚻 **Gender**
+- 🌱 **Age**
+- 💰 **Income**
+- 💯 **SpendingScore**
 
 ---
 
